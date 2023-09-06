@@ -1,0 +1,22 @@
+name	short_name	annotation	sequence	reverse	in_tree
+wsbs_speciman	wsbs	annot/wsbs.bed	assemblies/final_assembly_wsbs.fasta	F	T
+polydora brevipalpa	polbre	annot/polbre.bed	assemblies/assembly_brevipalpa.fasta	F	T
+holydora hoplura	polhop	annot/polhop.bed	assemblies/assembly_hoplura.fasta	F	T
+polydora websteri	polweb	annot/polweb.bed	assemblies/assembly_websteri.fasta	F	T
+bocardiella hamata	bocham	annot/bocham.bed	assemblies/bocham.fasta	F	T
+merenzelleria neglecta	marneg	annot/marneg.bed	assemblies/marneg.fasta	F	T
+solov_sprciman	solov	annot/solov.bed	assemblies/mitocontig_solov.fasta	T	T
+lindaspio sp.	lindaspio	annot/lindaspio.bed	assemblies/lindaspio.fasta	F	T
+Decemunciger sp1	dec1	annot/Decemunciger_sp_AB-2017.bed	assemblies/Decemunciger_sp_AB-2017.fasta	F	F
+Decemunciger sp2	dec2	annot/Decemunciger_sp_AB-2017_voucher_A3372-1.bed	assemblies/Decemunciger_sp_AB-2017_voucher_A3372-1.fasta	F	F
+Decemunciger sp3	dec3	annot/Decemunciger_sp_AB-2017_voucher_A3372-2.bed	assemblies/Decemunciger_sp_AB-2017_voucher_A3372-2.fasta	F	F
+Hydroides norvegica	hydnor	annot/Hydroides_norvegica.bed	assemblies/Hydroides_norvegica.fasta	F	F
+Neanthes glandicincta	neagla	annot/Neanthes_glandicincta_voucher_497.bed	assemblies/Neanthes_glandicincta_voucher_497.fasta	F	F
+Osedax rubiplumus	oserub	annot/Osedax_rubiplumus.bed	assemblies/Osedax_rubiplumus.fasta	F	F
+Rhynchospio asiatica	rhyas	annot/Rhynchospio_aff_asiatica_ZW-2021.bed	assemblies/Rhynchospio_aff_asiatica_ZW-2021.fasta	F	F
+Siboglinum fiordicum	sibfio	annot/Siboglinum_fiordicum.bed	assemblies/Siboglinum_fiordicum.fasta	F	F
+Spirobranchus giganteus	spigig	annot/Spirobranchus_giganteus.bed	assemblies/Spirobranchus_giganteus.fasta	F	F
+Streptosyllis sp	strep	annot/Streptosyllis_sp.bed	assemblies/Streptosyllis_sp.fasta	F	F
+Timarete posteria	timpost	annot/Timarete_posteria.bed	assemblies/Timarete_posteria.fasta	F	F
+Typosyllis antoni	typan	annot/Typosyllis_antoni.bed	assemblies/Typosyllis_antoni.fasta	F	F
+Typosyllis sp	typsp	annot/Typosyllis_sp.bed	assemblies/Typosyllis_sp.fasta	F	F
