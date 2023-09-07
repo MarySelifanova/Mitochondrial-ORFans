@@ -6,6 +6,5 @@ This GitHub repository serves as a resource for the scripts and data utilized in
 
 📁 Repository Contents:
 
-Scripts: Access scripts utilized for mitochondrial genome analysis, ORFan identification, data visualization and more.
-
-Data: Utilized datasets, including mitochondrial genome sequences and annotations, ORFan sequences, phylogenetic analysis data
+- Scripts: Access scripts utilized for mitochondrial genome analysis, ORFan identification, data visualization and more.
+- Data: Utilized datasets, including mitochondrial genome sequences and annotations, ORFan sequences, phylogenetic analysis data
