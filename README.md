@@ -10,5 +10,5 @@ This GitHub repository serves as a resource for the scripts and data utilized in
   - Script for Figure 1: CircularChromosome_gb_Polydora.R
   - Scripts for Figure 2: Make_genome_aligments_and_trees.ipynb
   - Scripts for Figure 3: ORFans_domains_and_conservation.ipynb, ORFans_domains_and_conservation.ipynb
-  - Scripts for Figure 4: DnDs_CAI_plot.R
+  - Script for Figure 4: DnDs_CAI_plot.R
 - Data: Utilized datasets, including mitochondrial genome sequences and annotations, ORFan sequences, phylogenetic analysis data
