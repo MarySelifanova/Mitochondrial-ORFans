@@ -10,7 +10,7 @@ This GitHub repository serves as a resource for the scripts and data utilized in
 
   - Script for Figure 1: CircularChromosome_gb_Polydora.R
   - Scripts for Figure 2: Make_genome_aligments_and_trees.ipynb
-  - Scripts for Figure 3: ORFans_domains_and_conservation.ipynb, ORFans_domains_and_conservation.ipynb
+  - Scripts for Figure 3: ORFans_domains_and_conservation.ipynb, TMDs_and_hidrophobicity_plot.ipynb
   - Script for Figure 4: DnDs_CAI_plot.R
 
   - Scripts for Figures S2-S4: Make_genes_trees.ipynb
